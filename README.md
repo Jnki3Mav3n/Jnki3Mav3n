@@ -1,6 +1,4 @@
-### This is my current career path! 👋
-
-Here are some ideas to get you started:
+### A Brief Description of My Career Path! 👋
 
 - 🔭 I’m currently working on ... Esports Development
 - 🌱 I’m currently learning ... Node.js & Python
