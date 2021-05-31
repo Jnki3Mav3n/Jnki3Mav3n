@@ -8,3 +8,10 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/manuel-ar) :telephone_receiver:
 - 😄 Pronouns: ... He/Him :robot:
 - ⚡ Fun fact: ... I'm a Philosopher with Asperger's :mage_man:
+
+![Jnki3Mav3n's github stats](https://github-readme-stats.vercel.app/api?username=Jnki3Mav3n&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jnki3Mav3n&layout=compact&theme=radical" />
+</a>
