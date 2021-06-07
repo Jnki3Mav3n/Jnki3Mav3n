@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... GraphQL :satellite:
 - 💬 Ask me about ... Engineering & Metaphysics :milky_way:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/manuel-ar) :telephone_receiver:
-- 😄 Pronouns: ... He/Him :alien:
+- 😄 Pronouns: ... He/Him :robot:
 - ⚡ Fun fact: ... I'm a Philosopher with Asperger's :mage_man:
 
 <!--
